@@ -3,7 +3,7 @@ package com.ancosen.github.mongodb.config;
 public class MongoConfig {
 
 	private String mongoHost;
-	private int mongoPort;
+	private int mongoPort ;
 
 	public String getMongoHost() {
 		return mongoHost;
